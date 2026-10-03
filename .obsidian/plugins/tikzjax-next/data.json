@@ -1,0 +1,15 @@
+{
+  "settingsVersion": 1,
+  "colors": "adapt",
+  "lazy": "on",
+  "svgo": "preset",
+  "fast": false,
+  "timeoutSeconds": 0,
+  "concurrency": 0,
+  "sourceHandling": "corrected",
+  "preamblePath": "",
+  "autoPreambleName": "tikz-preamble.tex",
+  "captureLog": true,
+  "preflight": true,
+  "importLegacyCache": false
+}

@@ -1,0 +1,14 @@
+/* Center and bound all LuaTikZ diagrams safely */
+.block-language-luatikz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    overflow-x: auto;
+    padding: 15px 0;
+}
+
+.block-language-luatikz svg {
+    max-width: 100%;
+    height: auto !important;
+}

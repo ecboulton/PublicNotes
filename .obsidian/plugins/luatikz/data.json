@@ -1,0 +1,20 @@
+{
+  "renderEngine": "lualatex",
+  "lualatexPath": "/usr/bin/lualatex",
+  "enableLocalShellRenderer": true,
+  "showInstallNotice": false,
+  "outputFormat": "svg",
+  "timeoutMs": 15000,
+  "cacheEnabled": true,
+  "extraPreamble": "\\usepackage{tikz-cd}\n\\usepackage{quiver}\n\\usepackage{amsfonts, amsmath, amssymb}\n\\usetikzlibrary{decorations.pathmorphing}\n",
+  "customPreamble": "",
+  "mainFont": "",
+  "hebrewFont": "",
+  "arabicFont": "",
+  "inlineLivePreviewEnabledByDefault": true,
+  "darkModeStyle": "auto-invert",
+  "starterBlockOnNewFence": true,
+  "enableStructuralLint": true,
+  "semicolonReminderMode": "hint",
+  "autoCloseBrackets": true
+}

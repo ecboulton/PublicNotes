@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "entries": {
+    "fa62c9d9623ebbade6c4a850f9b579f275b449e34606315d4f4b20a7de06916d": {
+      "createdAt": 1791013375012,
+      "engine": "lualatex",
+      "outputFormat": "svg",
+      "assetFile": "fa62c9d9623ebbade6c4a850f9b579f275b449e34606315d4f4b20a7de06916d.svg",
+      "kind": "svg"
+    }
+  }
+}
