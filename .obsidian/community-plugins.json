@@ -1,4 +1,8 @@
 [
   "luatikz",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-linter",
+  "tag-wrangler",
+  "notebook-navigator",
+  "tasknotes"
 ]
