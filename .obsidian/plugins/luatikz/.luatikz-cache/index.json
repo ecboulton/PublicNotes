@@ -140,6 +140,13 @@
       "outputFormat": "svg",
       "assetFile": "b45087b3e76e0ff0868b11447448d86eeb232c87658aaa632f420db0a50d9202.svg",
       "kind": "svg"
+    },
+    "8650a7ffe14d832aae838fb6a47d50389da66c1249f53145e8681805327edc91": {
+      "createdAt": 1792303341049,
+      "engine": "lualatex",
+      "outputFormat": "svg",
+      "assetFile": "8650a7ffe14d832aae838fb6a47d50389da66c1249f53145e8681805327edc91.svg",
+      "kind": "svg"
     }
   }
 }
