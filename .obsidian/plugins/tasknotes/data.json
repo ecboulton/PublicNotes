@@ -490,5 +490,6 @@
     "defaultReminderMinutes": null
   },
   "enableDebugLogging": false,
-  "lastSeenVersion": "4.13.8"
+  "lastSeenVersion": "4.13.8",
+  "lastNotifiedReleaseVersion": "4.15.0"
 }

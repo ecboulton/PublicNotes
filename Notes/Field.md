@@ -14,7 +14,7 @@ author:
 ***
 ## Overview / Definition
 ### Rough definition: 
-A **field** is a [[Set]] equipped with the four standard operations of addition, multiplication, subtraction (inverse of addition) and division (inverse of multiplication).
+A **field** is a [[Set|set]] equipped with the four standard operations of addition, multiplication, subtraction (inverse of addition) and division (inverse of multiplication).
 
 ### Formal definition
 A **field** is a [[Ring|commutative ring]] in which $0 \neq 1$ and all non-zero elements are invertible under multiplication.
